@@ -1,0 +1,61 @@
+html {
+  background-image: url("images/adadad.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  height: 610px;
+}
+p {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.783);
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 2000;
+  width: 700px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 0px 0px 5px rgb(255, 213, 0);
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+li {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: center;
+}
+a {
+  padding-left: 195px;
+  padding-right: 204px;
+  border-radius: 30px;
+  padding-top: 30px;
+}
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+  color: white;
+
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr {
+  border: 1px solid rgb(255, 213, 0);
+}
